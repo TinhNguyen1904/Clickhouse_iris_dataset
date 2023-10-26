@@ -13,6 +13,7 @@ PREPARATION STEPS:
 To import data into postgreSQL and clickhouse, you need to change the connection configuration in the code to your required configuration
 
 PROJECT IMPLEMENTATION STEPS:
+
     Task 1: 
     Choose an arbitrary dataset - here select the iris dataset
     Import data using python
