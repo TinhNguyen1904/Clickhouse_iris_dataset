@@ -1,15 +1,27 @@
 PREPARATION STEPS:
+
     Install postgreSQL locally
+    
     Sign up for an account on clickhouse cloud
+    
     To run python scripts, install the necessary libraries:
+    
         pip install Flask-SQLAlchemy
+        
         pip install psycopg2-binary
+        
         pip install sql
+        
         pip install pandahouse
+        
         pip install numpy
+        
         pip install pandas
+        
         pip install matplotlib
+        
         pip install seaborn
+        
 To import data into postgreSQL and clickhouse, you need to change the connection configuration in the code to your required configuration
 
 PROJECT IMPLEMENTATION STEPS:
